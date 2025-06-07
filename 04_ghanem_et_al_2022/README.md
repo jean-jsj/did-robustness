@@ -1,3 +1,5 @@
+![Plot](plot.png)
+
 # Ghanem et al. (2022)
 ## Key Parameter
 ρ_2 captures the extent to which time-varying unobservables differently affect treated and control groups. When ρ_2=1, the unobservables have no differential impact, thus satisfying the standard parallel trends assumption. Deviations from unity (ρ_2≠1) signal potential violations. 
