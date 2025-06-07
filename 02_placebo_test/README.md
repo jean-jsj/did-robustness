@@ -1,3 +1,5 @@
+![Placebo Distribution](placebo_distribution.jpg)
+
 ## Procedure
 * Randomly assign a “placebo” treatment to periods before the actual treatment event
 * Estimate the treatment effect for each of N draws
