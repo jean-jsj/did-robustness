@@ -1,3 +1,5 @@
+![Table](rambachan_roth_2023.JPG)
+
 # Rambachan and Roth (2023)
 ## Key Parameters
 * The first parameter, M bar, sets an upper bound on the extent to which the levels of the treated and control groups can differ in the post-treatment period. In essence, the analyst assumes that any deviation from parallel trends in the post-treatment period is at most M̄ times the largest deviation observed in the pre-treatment period. 
