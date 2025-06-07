@@ -1,3 +1,5 @@
+![Event Study](event_study_plot.jpg)
+
 ## Procedure
 * Replace the treatment indicator with a set of time-relative dummy variables
 
