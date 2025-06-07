@@ -1,3 +1,5 @@
+![Table](second_stage_results.JPG)
+
 ## First Stage
 For binary 〖Treatment〗_it, report pseudo-R² (McFadden’s R²) and examine whether the value is well within acceptable limits. According to McFadden (1979), pseudo-R² value between 0.2 and 0.4 indicate excellent fit, and simulation studies (Domencich and McFadden 1975) suggest this range is comparable to an OLS R² between 0.7 and 0.9.
 

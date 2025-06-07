@@ -1,3 +1,5 @@
+![Event‐Study-Plots](event_study_plot.jpg)
+
 In settings with staggered treatment timing—where different units receive treatment at different times—the standard TWFE (two-way fixed effects) estimator produces unbiased estimates only if treatment effects are constant across time and units. A key problem is that TWFE can compare treated units to those already treated, treating them as if they were untreated. When treatment effects vary, these “forbidden comparisons” introduce bias (de Chaisemartin and D’Haultfœuille 2020, Goodman-Bacon 2021).
 
 To address this, researchers often rely on alternative estimators that avoid these problematic comparisons. These methods differ in how they construct control groups and how they weight cohort-time comparisons:
